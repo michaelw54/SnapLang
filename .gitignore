@@ -1,0 +1,14 @@
+# ios
+/ios/.DS_Store
+/ios/.build
+/ios/Packages
+/ios/*.xcodeproj
+
+# node-api
+/node-api/.env
+/node-api/strange-firefly-231905-c9af0e8bd4f1.json
+
+# web
+/web/node_modules
+/web/package-lock.json
+/web/yarn.lock
